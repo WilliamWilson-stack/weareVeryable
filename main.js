@@ -1,7 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+let myFirstName = "William"
+let myLastName = "Wilson"
+let myFavoriteCeleb = "niclous cage"
+let mySentence = "william wilson nickous cage"
+let myLuckyNum = 11
+let myAge = 44
+let myHeight = 64
+let myFavoriteYear = 1981
+let mySum = 5+2317+36
+let myProduct = 232 * 43 / 2 + 4
+let myHeightAndAge = 64 + 44
 
 /*********************************************************************************************************************
 

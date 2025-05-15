@@ -1,7 +1,7 @@
 const assert = require('assert');
 const {
-  myFirstName,
-  myLastName,
+  myFirstName, 
+  myLastName,  
   myFavoriteCeleb,
   mySentence,
   myLuckyNum,
